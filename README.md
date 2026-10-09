@@ -1,1 +1,1 @@
-# WanderLust
+# WanderLust - Travel Destination Web App
